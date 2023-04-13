@@ -1,1 +1,2 @@
-# TL2023-Tracker-Mobile
+# Móvil
+La implementación móvil multiplataforma para el monitoreo de servicios en tiempo real

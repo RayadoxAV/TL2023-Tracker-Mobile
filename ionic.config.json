@@ -1,0 +1,7 @@
+{
+  "name": "AstraZeneca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
